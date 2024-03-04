@@ -1,6 +1,6 @@
 I'm pleased to announce that I have successfully
 completed the Operating Systems course and have
-meticulously crafted solutions for all exercises
+meticulously crafted solutions for most of exercises
 to aid in a thorough understanding of the subject
 matter. These resources are now available on my GitHub
 repository, serving as a reliable source of assistance
